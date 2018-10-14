@@ -1,5 +1,4 @@
-# dailycodingproblem-1
-Daily Coding Problem #1 - Solution
+# Daily Coding Problem #1
 
 This problem was recently asked by Google.
 
